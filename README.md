@@ -5,3 +5,4 @@ Mi primer repositorio con Github
 
 Cosas por hacer:
 - Aprender qué es un for
+- Ya conocemos los botones push y pull
